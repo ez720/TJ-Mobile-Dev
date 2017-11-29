@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookProject</string>
+    <string name="facebook_app_id">1717781165196918</string>
+    <string name="fb_login_protocol_scheme">fb1717781165196918</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="error">Error</string>
+</resources>
